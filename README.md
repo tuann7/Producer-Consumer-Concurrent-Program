@@ -1,6 +1,5 @@
 # Producer-Consumer-Concurrent-Program
-## In this project, we're dealing with 2 kinds of threads: producers and consumers. This problem
-## is well-known in concurrent programming and this project addresses this problem.
+## In this project, we're dealing with 2 kinds of threads: producers and consumers. This problem is well-known in concurrent programming and this project addresses this problem.
 #### There are 2 kinds of threads: producers and consumers. There can be many of each. Each producer and each consumer must execute
 #### in a different thread. A producers’ job is to produce items and put them into a bounded buffer. A consumer’s job is to remove 
 #### items from the buffer. The buffer can hold 8 items.
